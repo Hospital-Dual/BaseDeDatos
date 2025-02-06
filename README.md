@@ -2,8 +2,7 @@
 En la imagen es el orden en la cual se van a ir agregando los datos de la tabla original del proyecto
 
 
-![image](https://github.com/user-attachments/assets/e33599f6-b[Uploading medico.sql…]()
-ebe-4ed6-b7e8-02023b4a697a)
+![Captura de pantalla 2025-02-06 133509](https://github.com/user-attachments/assets/f5c42cf9-dd38-4d3a-917a-1fa66efc0a51)
 
 Link del SQL nuevo
 

@@ -9,3 +9,10 @@ Link del SQL nuevo
 https://drive.google.com/file/d/1PN91uwqS9-jey9iUZAidkwHcCGJXQtyc/view?usp=sharing
 
 El SQL original está en el grupo de WhatsApp
+
+Para encontrar los datos, usen Visual Studio y abajo de la creación de las tablas se encontrará los datos de la base de datos original
+
+![image](https://github.com/user-attachments/assets/24f4ac02-0ab1-4a32-b8a0-09300c5096f8)
+
+Se insertan los valores en este apartado y abajo saldrá la opcion de continuar
+![image](https://github.com/user-attachments/assets/be1cef6b-4ec0-4f4c-b1a0-d1622323d289)

@@ -47,6 +47,9 @@ Pongan en terminal php artisan key:generate
 #
 Paso #8
 Pongan en terminal php artisan jwt:secret
+#
+#
+#
 Paso #7
 En terminal creen la migración(php artisan migrate)
 #

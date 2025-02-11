@@ -1,18 +1,31 @@
 # BaseDeDatos
-En la imagen es el orden en la cual se van a ir agregando los datos de la tabla original del proyecto
+#Repositorio
+https://github.com/LuisDonaldo2003/api_clinica
 
+Passo #1
+Vayan a la carpeta en donde se va a guardar el proyecto y denle click derecho
+![image](https://github.com/user-attachments/assets/d237d5b4-57d0-42a3-b06f-9cb6587e1ce5)
 
-![Captura de pantalla 2025-02-06 133509](https://github.com/user-attachments/assets/f5c42cf9-dd38-4d3a-917a-1fa66efc0a51)
+Paso #2
+Copien el link del repositorio
+![image](https://github.com/user-attachments/assets/57b06840-3572-4ff3-aa0f-63ab09860f59)
 
-Link del SQL nuevo
+Paso #3
+Pongan el comando git clone y el link
+![image](https://github.com/user-attachments/assets/26f1ffa0-0a2e-475f-b750-9076458057ad)
 
-https://drive.google.com/file/d/1PN91uwqS9-jey9iUZAidkwHcCGJXQtyc/view?usp=sharing
+Paso #4
+Pongan en terminal el siguiente comando
+![image](https://github.com/user-attachments/assets/abdd2938-0a4a-4f6d-aa25-a72743a31f96)
 
-El SQL original está en el grupo de WhatsApp
+Paso #5
+Copien el .env example, lo pegan y le cambian el nombre a solo .env
+![image](https://github.com/user-attachments/assets/7ae295eb-c037-4b6b-9fc9-d50043bef4f4)
 
-Para encontrar los datos, usen Visual Studio y abajo de la creación de las tablas se encontrará los datos de la base de datos original
+Paso #6
+En el .env editen estos valores
+![image](https://github.com/user-attachments/assets/cedc2af2-4729-49c5-9cb6-e5cd26432b65)
 
-![image](https://github.com/user-attachments/assets/24f4ac02-0ab1-4a32-b8a0-09300c5096f8)
+Paso #7
+En terminal creen la migración(php artisan migrate)
 
-Se insertan los valores en este apartado y abajo saldrá la opcion de continuar
-![image](https://github.com/user-attachments/assets/be1cef6b-4ec0-4f4c-b1a0-d1622323d289)

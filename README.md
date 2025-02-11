@@ -41,8 +41,31 @@ En el .env editen estos valores
 #
 #
 Paso #7
+Pongan en terminal php artisan key:generate
+#
+#
+#
+Paso #8
+Pongan en terminal php artisan jwt:secret
+Paso #7
 En terminal creen la migración(php artisan migrate)
 #
 #
 #
 #COMO USAR INSOMNIA
+Paso #1: Creamos una nueva colección(new collection)
+
+![image](https://github.com/user-attachments/assets/83cf89ec-5889-47de-a5c0-6eaeef176d69)
+#
+#
+#
+Paso #2: Creamos un nuevo Http Request
+![image](https://github.com/user-attachments/assets/11d69f2b-2fd3-4c0c-ad1d-58eb491deb47)
+#
+#
+#
+Paso #3:Copien el URL que les arroja Laravel
+![image](https://github.com/user-attachments/assets/13e23f6f-4695-4765-89cd-7c1730c406cc)
+
+
+

@@ -69,6 +69,49 @@ Paso #2: Creamos un nuevo Http Request
 #
 Paso #3:Copien el URL que les arroja Laravel
 ![image](https://github.com/user-attachments/assets/13e23f6f-4695-4765-89cd-7c1730c406cc)
+#
+#
+#
+Paso #4: Cambien de GET a POST y pongan el resto del URL
+![image](https://github.com/user-attachments/assets/19822361-381a-4dc5-97f0-460abc339558)
+#
+#
+#
+Paso #5: Añadan el atributo y la informacion
+![image](https://github.com/user-attachments/assets/9a236ef7-3829-4255-a666-2d44cf51059f)
+#
+#
+#
+Paso #6: envien la petición
+![image](https://github.com/user-attachments/assets/a4375503-887b-490b-a163-974de9444809)
+#
+#
+#
+Paso #7: Ahora cambien en el URL de register a login
+#
+#
+#
+Paso #8: Quiten la opcion de name(aparece con una palomita, quitenla)
+![image](https://github.com/user-attachments/assets/7cec430b-163f-4836-95b3-a523b78c4049)
+#
+#
+#
+Paso #9: Les mostrará la informacion junto con el acces Token que es importante
+#
+#
+#
+Paso #10: Vayan al apartado de Headers y agreguen los siguiente
+![image](https://github.com/user-attachments/assets/f76694d0-a8fd-4cd1-97e6-78b1ba1b2ccd)
+#
+#
+#
+Paso #11:En el apartado pondran Bearer y pegarán el acces token
+![image](https://github.com/user-attachments/assets/e06d356d-ab25-4b8f-b18f-0b21ade58474)
+#
+#
+#
+
+
 
 
 

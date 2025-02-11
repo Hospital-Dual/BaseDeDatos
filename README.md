@@ -110,6 +110,8 @@ Paso #11:En el apartado pondran Bearer y pegarán el acces token
 #
 #
 #
+Paso #12: Una vez configurado, cambiarán en el URL de login a me y ademas desactivarán los parámetros y enviaremos la petición
+![image](https://github.com/user-attachments/assets/c866eea0-df01-426a-a9ac-4113f63dd667)
 
 
 

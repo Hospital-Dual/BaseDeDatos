@@ -25,6 +25,6 @@ En este aparado buscar el archivo enviroment.development.ts y lo del siguiente e
 [Links](https://github.com/Hospital-Dual/BaseDeDatos/blob/main/Archivos/environment.development.ts)
 #
 # Octavo paso
-Creen una carpeta llamada config, en la siguiente ruta src/app, y dentro creen un archivo ts llamada config.ts
+Creen una carpeta llamada config, en la siguiente ruta src/app, y dentro creen un archivo ts llamada config.ts, ya después pondrán esto [Links](https://github.com/Hospital-Dual/BaseDeDatos/blob/main/Archivos/config.ts)
 #
 ![image](https://github.com/user-attachments/assets/31222f1c-ee43-4dc2-82a4-b1dd289c77a4)

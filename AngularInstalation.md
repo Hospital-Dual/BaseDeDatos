@@ -11,3 +11,12 @@ Poner en terminal ng build
 #
 #Cuarto paso
 Poner ng serve para confirmar
+#
+#Quinto paso
+Pondrán en terminal ng generate environments
+#
+#Sexto paso
+Visualizar la ubicación de los enviroments
+![image](https://github.com/user-attachments/assets/463f84e1-96ab-4f0c-8df2-731536ddc9b7)
+#
+#Septimo paso
